@@ -7,21 +7,19 @@
 </tr>
 </table>
 
-# ![WebApp](https://i.seadn.io/gcs/files/751953df253bd10c1e5643950b2bb210.png?auto=format&dpr=1&w=1920)
 
 # BLOCKCHAIN
+
+# NFT Animal Robots
+![](https://i.seadn.io/gcs/files/751953df253bd10c1e5643950b2bb210.png?auto=format&dpr=1&w=1920)
 ## Concepto
-CONCEPTO: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ## Demo
-NFT TESTNET COLLECTION GORILEI :  https://testnets.opensea.io/collection/animals-robots
+1000 NFT COLLECTION -> TESTNET MUMBAI POLYGON:  https://testnets.opensea.io/collection/animals-robots
 
+### Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
+![](https://asset.cloudinary.com/dhga15zq8/6e3e1abcae193c28a6b42e64b72f40c8)
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
