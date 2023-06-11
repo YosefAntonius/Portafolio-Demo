@@ -142,6 +142,25 @@ VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 - C++ para la conexión de acciones entre Unreal Engine y el UI.
 
 # OTROS
+
+## APPS FLUTTER - Android + IOS
+### Club Cazadores Monterrey:  
+
+-Android: https://play.google.com/store/apps/details?id=com.appclubdetiro.mty&pli=1  
+
+-IOS: https://apps.apple.com/us/app/club-cazadores-monterrey/id1596527250
+
+### 10 digitos mx: 
+
+-Android: https://play.google.com/store/apps/details?id=com.fcfm.cambia_10&hl=es&gl=US&pli=1 
+
+-IOS: https://apps.apple.com/us/app/10-digitos-mx/id1487732733
+
+### Utilizado
+- Flutter - Dart.
+- SQLflite base de datos local.
+- Firebase base de datos y auth de usuarios.
+
 ## ANIMACION NARANJAMENTE INTRO
 VIDEO: https://drive.google.com/file/d/1wtflVFIrBbAEn2oozs0lSxt3hnuG0pIE/view?usp=sharing
 
