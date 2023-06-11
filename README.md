@@ -15,7 +15,7 @@
 ### Concepto
 PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
-1000 NFT COLLECTION -> TESTNET MUMBAI POLYGON:  https://testnets.opensea.io/collection/animals-robots
+1000 NFT COLLECTION:  https://testnets.opensea.io/collection/animals-robots
 
 ### Utilizado
 - Testnet Mumbai polygon
@@ -31,7 +31,7 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 ### Concepto
 PRESENTACIÓN: https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
-REPOSITORIO PROYECTO -> TESTNET FUJI AVAX: https://github.com/JoseVargas05/LMaquina-cryptopapayas
+REPOSITORIO PROYECTO: https://github.com/JoseVargas05/LMaquina-cryptopapayas
 
 CONTRATO: https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
 
