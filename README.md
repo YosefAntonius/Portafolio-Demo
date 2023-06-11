@@ -18,9 +18,9 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 1000 NFT COLLECTION:  https://testnets.opensea.io/collection/animals-robots
 
 ### Utilizado
-- Testnet Mumbai polygon
-- Pinata como IPFS
-- Thirdweb para el despliegue de los NFT
+- Testnet Mumbai polygon.
+- Pinata como IPFS.
+- Thirdweb para el despliegue de los NFT.
 - Photoshop para edición y tratado de imágenes.
 
 ## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
@@ -38,12 +38,12 @@ CONTRATO: https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2
 VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynjd/view?usp=sharing
 
 ### Utilizado
-- Testnet Fuji AVAX
-- HardHat para el debug del contrato
-- OpenZeppeling como standard
-- Solidity para el contrato inteligente
-- Javascript para la lógica de interecciones
-- Css y html para el front-end
+- Testnet Fuji AVAX.
+- HardHat para el debug del contrato.
+- OpenZeppeling como standard.
+- Solidity para el contrato inteligente.
+- Javascript para la lógica de interecciones.
+- Css y html para el front-end.
 - Photoshop para edición y tratado de imágenes.
 
 # PROYECTOS EN REACTJS
@@ -57,13 +57,15 @@ ENLACE: https://www.talisis.com/
 En este caso las principales funcionalidades de las que fui encargado es la página principal Back-End y Front-End en especial en los caruseles, la sección de mis clases igualmente Full-Stack, la sección de orenes (Que ayudaba a dar seguimiento al proceso de compra y detección de errores), el Front-End y el Back-End de el CRUD de descuentos o cupones, así como 
 también la aplicación de el código de cupón en el checkout, además el Front-End y Back-End de el landing page de información del curso.
 
+Tuve particiáción en la parte de checkout el proceso de compra conectar las transacciones de un usuario de la api de compras conekta y nuestra base de datos.
+
 ### Utilizado
-- MaterialUI para el front-end
-- Expressjs para la conexión con el API creada en AWS
-- Api Gateway de AWS como API
-- Lambda de AWS para la lógica de back-end
-- SQL como base de datos para las consultas en ragistros
-- GrapQL para las consultas de información especiífica avanzada de usuarios
+- MaterialUI para el front-end.
+- Expressjs para la conexión con el API creada en AWS.
+- Api Gateway de AWS como API.
+- Lambda de AWS para la lógica de back-end.
+- SQL como base de datos para las consultas en ragistros.
+- GrapQL para las consultas de información especiífica avanzada de usuarios.
 - Javascript para lógica y algoritmos como conversiones de fechas y manejo de información.
 - Redux para manejo de estados globales.
 
@@ -71,8 +73,8 @@ también la aplicación de el código de cupón en el checkout, además el Front
 VIDEO DEMO: https://drive.google.com/file/d/1vKE7WdOmi9T4iLPT3WfJwoa-FTcm4Oqi/view?usp=sharing
 
 ### Utilizado
-- Css para el front-end
-- GSAP para las animaciónes y funcionalidades "paralax"
+- Css para el front-end.
+- GSAP para las animaciónes y funcionalidades "paralax".
 - Javascript para accionar estados.
 
 # PROYECTOS EN HTML-CSS-JS 
@@ -82,40 +84,40 @@ VIDEO DEMO: https://drive.google.com/file/d/1vKE7WdOmi9T4iLPT3WfJwoa-FTcm4Oqi/vi
 VIDEO: https://drive.google.com/file/d/1zWcnY3YvQnGb0Cu72bGcahTqcKfIFGsf/view?usp=sharing
 
 ### Utilizado
-- Html y Css para el front-end, estilos y animaciones
+- Html y Css para el front-end, estilos y animaciones.
 - Javascript para accionar estados, transiciones y animaciones.
 
 ## ELITE
 ENLACE: https://jsmeliteelectric.com/
 
 ### Utilizado
-- Html y Css para el front-end, estilos y animaciones
+- Html y Css para el front-end, estilos y animaciones.
 - Javascript - AJAX para botón de formulario.
-- PHP para el Formulario
+- PHP para el Formulario.
 
 ## J.ESCOTO GROUP
 ENLACE: https://jegpropertytax.com/
 
 ### Utilizado
-- Html y Css para el front-end, estilos y animaciones
+- Html y Css para el front-end, estilos y animaciones.
 - Javascript - AJAX para botón de formulario.
-- PHP para el Formulario
+- PHP para el Formulario.
 
 ## AVANXE
 ENLACE: http://www.avanxe.net/
 
 ### Utilizado
-- Html y Css para el front-end, estilos y animaciones
+- Html y Css para el front-end, estilos y animaciones.
 - Javascript - AJAX para botón de formulario.
-- PHP para el Formulario
+- PHP para el Formulario.
 
 ## VERTICEDS
 ENLACE: https://verticeds.com/
 
 ### Utilizado
-- Html y Css para el front-end, estilos y animaciones
+- Html y Css para el front-end, estilos y animaciones.
 - Javascript - AJAX para botón de formulario.
-- PHP para el Formulario
+- PHP para el Formulario.
 
 # GEARBOX TRAILER JUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
 VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
@@ -130,7 +132,7 @@ VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 VIDEO: https://drive.google.com/file/d/1wtflVFIrBbAEn2oozs0lSxt3hnuG0pIE/view?usp=sharing
 
 ### Utilizado
-- After Effects para animaciones
+- After Effects para animaciones.
 - Photoshop para edición y tratado de imágenes.
 
 
