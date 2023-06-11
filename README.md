@@ -21,6 +21,14 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 
 ![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686450481/Screenshot_2023-06-11_102545_ievwpq.png)
 
+
+### Concepto
+PRESENTACIÓN: https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+### Demo
+REPOSITORIO PROYECTO -> TESTNET FUJI AVAX:  https://github.com/JoseVargas05/LMaquina-cryptopapayas
+
+CONTRATO:  https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
+
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
 
