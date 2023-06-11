@@ -29,66 +29,46 @@ REPOSITORIO PROYECTO -> TESTNET FUJI AVAX:  https://github.com/JoseVargas05/LMaq
 
 CONTRATO:  https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
 
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
+VIDEO CONCEPTO:
 
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
+# PROYECTOS EN REACTJS
+![](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)
 
+## FIXUP
+VIDEO DEMO: https://drive.google.com/file/d/1vKE7WdOmi9T4iLPT3WfJwoa-FTcm4Oqi/view?usp=sharing
 
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
+## TALISIS
+VIDEO: https://drive.google.com/file/d/1e7g1BnL5YOhdaUWECNvx1PtlyMwGqNwi/view?usp=sharing
 
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+ENLACE: https://www.talisis.com/
 
+# PROYECTOS EN HTML-CSS-JS
 
+## NARANJAMENTE
+VIDEO: 
 
+## ELITE
+ENLACE: https://jsmeliteelectric.com/
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## J.ESCOTO GROUP
+ENLACE: https://jegpropertytax.com/
 
-### Development
-Want to contribute? Great!
+## AVANXE
+ENLACE: http://www.avanxe.net/
 
-To fix a bug or enhance an existing module, follow these steps:
+## VERTICEDS
+ENLACE: https://verticeds.com/
 
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
+# GEARBOX TRAILER JUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
+VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
-
-
-## Built with 
-
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
+# OTROS - ANIMACION NARANJAMENTE INTRO
+VIDEO: https://drive.google.com/file/d/1wtflVFIrBbAEn2oozs0lSxt3hnuG0pIE/view?usp=sharing
 
 ## To-do
 - Add BSE (India) Symbol to the current App.
 - Decide comparison models of Stocks. (suggestions are most welcome).
 - Another WebApp, capable of comparing at least 10 stocks.
-
-## Team
-
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
----|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
-
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
-
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
 
 
 
