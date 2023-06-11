@@ -1,4 +1,4 @@
-# PORTAFOLIO
+# PORTAFOLIO - JOSE VARGAS
 <table>
 <tr>
 <td>
@@ -48,7 +48,7 @@ VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynj
 - Css y html para el front-end.
 - Photoshop para edición y tratado de imágenes.
 - React Vite.
-- Tailwind
+- Tailwind.
 
 ![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455776/012-Jos%C3%A9_Antonio_Vargas_Marines_o8qo1x.png)
 
@@ -138,7 +138,7 @@ ENLACE: https://verticeds.com/
 # GEARBOX TRAILER JUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
 VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
-Mi participación fue en los efectos de daño al personaj, la vida y el escudo, la energía, la barra de nivel, el mapa y la a barra de vida de los enemigos.
+Mi participación fue en los efectos de daño al personaje, la vida y el escudo, la energía, la barra de nivel, el mapa y la a barra de vida de los enemigos.
 Así como también algunos elementos de la selección y customización del personaje, y los iconos y indicadores de la munición. 
 
 ![](https://cdn.mos.cms.futurecdn.net/aWXHdtvNBxK2dsTHjL3pkS.jpg)
