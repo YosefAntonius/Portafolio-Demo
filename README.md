@@ -44,7 +44,7 @@ VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynj
 - HardHat para el debug del contrato.
 - OpenZeppeling como standard.
 - Solidity para el contrato inteligente.
-- Javascript para la lógica de interecciones.
+- Javascript para la lógica de interacciones.
 - Css y html para el front-end.
 - Photoshop para edición y tratado de imágenes.
 
@@ -58,10 +58,10 @@ VIDEO: https://drive.google.com/file/d/1e7g1BnL5YOhdaUWECNvx1PtlyMwGqNwi/view?us
 
 ENLACE: https://www.talisis.com/
 
-En este caso las principales funcionalidades de las que fui encargado es la página principal Back-End y Front-End en especial en los caruseles, la sección de mis clases igualmente Full-Stack, la sección de orenes (Que ayudaba a dar seguimiento al proceso de compra y detección de errores), el Front-End y el Back-End de el CRUD de descuentos o cupones, así como 
-también la aplicación de el código de cupón en el checkout, además el Front-End y Back-End de el landing page de información del curso.
+En este caso las principales funcionalidades de las que fui encargado tanto del Back-End como del Front-End es la página principal, la sección de mis clases igualmente, la sección de ordenes (Que ayudaba a dar seguimiento al proceso de compra y detección de errores), el CRUD de descuentos o cupones, así como 
+también la aplicación de el código de cupón en el checkout, además de el landing page de información del curso.
 
-Tuve particiáción en la parte de checkout el proceso de compra conectar las transacciones de un usuario de la api de compras conekta y nuestra base de datos.
+Tuve particiáción también en la parte de checkout el proceso de compra, conectar las peticiones de compra de los usuarios de la api de compras conekta y nuestra base de datos.
 
 ### Utilizado
 - MaterialUI para el front-end.
