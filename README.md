@@ -86,7 +86,7 @@ VIDEO DEMO: https://drive.google.com/file/d/1vKE7WdOmi9T4iLPT3WfJwoa-FTcm4Oqi/vi
 
 # GEARBOX SOFTWARE - VIDEOJUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
 
-VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
+TRAILER: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
 Mi participación fue en los efectos de daño al personaje, la vida y el escudo, la energía, la barra de nivel, el mapa y la a barra de vida de los enemigos.
 Así como también algunos elementos de la selección y customización del personaje, y los iconos y indicadores de la munición. 
