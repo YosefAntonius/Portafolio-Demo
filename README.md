@@ -21,7 +21,8 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 - Testnet Mumbai polygon.
 - Pinata como IPFS.
 - Thirdweb para el despliegue de los NFT.
-- Photoshop para edición y tratado de imágenes.
+- Photoshop e Illustrator para edición, creación de todas las convinaciones posibles tanto de fondos como de animales y tratado de imágenes.
+- Arte obtenida de Freepick.
 
 ![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455876/Jos%C3%A9_Antonio_Vargas_Marines_-_NFT_hackaton_y8on0f.png)
 
