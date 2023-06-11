@@ -137,6 +137,7 @@ ENLACE: https://verticeds.com/
 VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
 ### Utilizado
+- Adobe Animator para crear los contenedores con tamaño 1080p.
 - Html y Css para el front-end, acomodo de elementos y animaciones.
 - Javascript con script coherent gameface para conexión a Unreal Engine, lectura de interección en en UI.
 - C++ para la conexión de acciones entre Unreal Engine y el UI.
