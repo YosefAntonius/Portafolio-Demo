@@ -23,6 +23,8 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 - Thirdweb para el despliegue de los NFT.
 - Photoshop para edición y tratado de imágenes.
 
+![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455876/Jos%C3%A9_Antonio_Vargas_Marines_-_NFT_hackaton_y8on0f.png)
+
 ## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
 ![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686450481/Screenshot_2023-06-11_102545_ievwpq.png)
@@ -45,6 +47,8 @@ VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynj
 - Javascript para la lógica de interecciones.
 - Css y html para el front-end.
 - Photoshop para edición y tratado de imágenes.
+
+![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455776/012-Jos%C3%A9_Antonio_Vargas_Marines_o8qo1x.png)
 
 # PROYECTOS EN REACTJS
 ![](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)
