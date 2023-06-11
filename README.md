@@ -19,7 +19,7 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 
 ### Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
-![](https://asset.cloudinary.com/dhga15zq8/6e3e1abcae193c28a6b42e64b72f40c8)
+![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686450481/Screenshot_2023-06-11_102545_ievwpq.png)
 
 ### Query Filled Form
 ![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
