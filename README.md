@@ -21,6 +21,7 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 - Testnet Mumbai polygon
 - Pinata como IPFS
 - Thirdweb para el despliegue de los NFT
+- Photoshop para edición y tratado de imágenes.
 
 ## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
@@ -43,6 +44,7 @@ VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynj
 - Solidity para el contrato inteligente
 - Javascript para la lógica de interecciones
 - Css y html para el front-end
+- Photoshop para edición y tratado de imágenes.
 
 # PROYECTOS EN REACTJS
 ![](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)
