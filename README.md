@@ -89,7 +89,7 @@ VIDEO DEMO: https://drive.google.com/file/d/1vKE7WdOmi9T4iLPT3WfJwoa-FTcm4Oqi/vi
 TRAILER: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
 Mi participación fue en los efectos de daño al personaje, la vida y el escudo, la energía, la barra de nivel, el mapa y la a barra de vida de los enemigos.
-Así como también algunos elementos de la selección y customización del personaje, y los iconos y indicadores de la munición. 
+Así como también algunos elementos de la selección y customización del personaje, y los iconos e indicadores de la munición. 
 
 ![](https://cdn.mos.cms.futurecdn.net/aWXHdtvNBxK2dsTHjL3pkS.jpg)
 
