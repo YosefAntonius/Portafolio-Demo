@@ -135,7 +135,7 @@ ENLACE: https://verticeds.com/
 - Javascript - AJAX para botón de formulario.
 - PHP para el Formulario.
 
-# GEARBOX TRAILER JUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
+# GEARBOX SOFTWARE - TRAILER JUEGO EN EL QUE TUVE PARTICIPACÓN EN ALGUNOS ELEMENTOS DE EL UI
 VIDEO: https://www.youtube.com/watch?v=51c4TU5D6Aw
 
 Mi participación fue en los efectos de daño al personaje, la vida y el escudo, la energía, la barra de nivel, el mapa y la a barra de vida de los enemigos.
@@ -147,7 +147,11 @@ Así como también algunos elementos de la selección y customización del perso
 - Adobe Animator para crear los contenedores con tamaño 1080p.
 - Html y Css para el front-end, acomodo de elementos y animaciones.
 - Javascript con script coherent gameface para conexión a Unreal Engine, lectura de interección en en UI.
-- C++ para la conexión de acciones entre Unreal Engine y el UI.
+- C++ Y con plugin coherent gameface para la conexión de acciones entre Unreal Engine y el UI.
+
+![](https://coherent-labs.com/wp-content/uploads/2018/11/Image-71.png)
+
+Coherent Gameface: https://coherent-labs.com/products/coherent-gameface/
 
 # OTROS
 
