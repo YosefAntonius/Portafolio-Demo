@@ -10,14 +10,14 @@
 
 # BLOCKCHAIN
 
-# NFT Animal Robots
+## NFT Animal Robots
 ![](https://i.seadn.io/gcs/files/751953df253bd10c1e5643950b2bb210.png?auto=format&dpr=1&w=1920)
-## Concepto
+# Concepto
 PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-## Demo
+# Demo
 1000 NFT COLLECTION -> TESTNET MUMBAI POLYGON:  https://testnets.opensea.io/collection/animals-robots
 
-### Crypto Stake Battles - Seasson 0.1: Crypto Papayas
+## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
 ![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686450481/Screenshot_2023-06-11_102545_ievwpq.png)
 
