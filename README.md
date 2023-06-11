@@ -1,8 +1,8 @@
-# PORTAFOLIO DEMO
+# PORTAFOLIO
 <table>
 <tr>
 <td>
-  Demostración de algunos trabajos los cuales he participado
+  Demostración de algunos trabajos los cuales he creado y participado
 </td>
 </tr>
 </table>
@@ -25,11 +25,11 @@ PRESENTACIÓN: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/v
 ### Concepto
 PRESENTACIÓN: https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
-REPOSITORIO PROYECTO -> TESTNET FUJI AVAX:  https://github.com/JoseVargas05/LMaquina-cryptopapayas
+REPOSITORIO PROYECTO -> TESTNET FUJI AVAX: https://github.com/JoseVargas05/LMaquina-cryptopapayas
 
-CONTRATO:  https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
+CONTRATO: https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
 
-VIDEO CONCEPTO:
+VIDEO CONCEPTO: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynjd/view?usp=sharing
 
 # PROYECTOS EN REACTJS
 ![](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)
