@@ -9,10 +9,11 @@
 
 # ![WebApp](https://i.seadn.io/gcs/files/751953df253bd10c1e5643950b2bb210.png?auto=format&dpr=1&w=1920)
 
-
+# BLOCKCHAIN
+## Concepto
+CONCEPTO: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ## Demo
 NFT TESTNET COLLECTION GORILEI :  https://testnets.opensea.io/collection/animals-robots
-CONCEPTO: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 
 ## Site
