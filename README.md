@@ -180,7 +180,7 @@ LINK: https://verticeds.com/
 - SQLflite for local database.
 - Firebase for user authentication and database.
 
-## ANIMACION NARANJAMENTE INTRO
+## NARANJAMENTE ANIMATED INTRO
 VIDEO: https://drive.google.com/file/d/1wtflVFIrBbAEn2oozs0lSxt3hnuG0pIE/view?usp=sharing
 
 ### Used
