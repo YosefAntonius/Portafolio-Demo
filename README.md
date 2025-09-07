@@ -30,7 +30,7 @@ PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/vi
 ### Concept
 PRESENTATION: https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
-PROJECT REPOSITORY: [https://github.com/JoseVargas05/LMaquina-cryptopapayas](https://github.com/YosefAntonius/LMaquina-cryptopapayas)
+PROJECT REPOSITORY: [https://github.com/YosefAntonius/LMaquina-cryptopapayas](https://github.com/YosefAntonius/LMaquina-cryptopapayas)
 
 CONTRACT: https://testnet.snowtrace.io/address/0xBBc6bd1f2D34a7399930658CBD4E4f2aA9577B37
 
