@@ -11,7 +11,6 @@
 # BLOCKCHAIN
 
 ## NFT Animal Robots
-<img width="828" height="636" alt="image" src="https://github.com/user-attachments/assets/14170453-6253-48cc-8b6c-e425552ecabb" />
 ### Concepto
 PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
@@ -24,11 +23,8 @@ PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/vi
 - Photoshop and Illustrator for editing and creating all possible combinations of backgrounds and animals, and image processing.
 - Art obtained from Freepik.
 
-![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455876/Jos%C3%A9_Antonio_Vargas_Marines_-_NFT_hackaton_y8on0f.png)
 
 ## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
-
-![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686450481/Screenshot_2023-06-11_102545_ievwpq.png)
 
 
 ### Concept
@@ -50,8 +46,6 @@ VIDEO CONCEPT: https://drive.google.com/file/d/1qQ4V04IWsHXP-57sTGsF1oVU0r-xynjd
 - Photoshop for image editing and processing.
 - React with Vite.
 - Tailwind.
-
-![](https://res.cloudinary.com/dhga15zq8/image/upload/v1686455776/012-Jos%C3%A9_Antonio_Vargas_Marines_o8qo1x.png)
 
 # PROJECTS IN REACTJS
 ![](https://i0.wp.com/www.primefaces.org/wp-content/uploads/2017/09/feature-react.png?ssl=1)
