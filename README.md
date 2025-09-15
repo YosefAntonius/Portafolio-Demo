@@ -102,7 +102,7 @@ My participation was in the character's damage effects, life and shield indicato
 ![](https://coherent-labs.com/wp-content/uploads/2018/11/Image-71.png)
 
 Coherent Gameface: https://coherent-labs.com/products/coherent-gameface/
-# PROYECTOS EN HTML-CSS-JS
+# HTML-CSS-JS PROJECTS
 ![](https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png)
 
 ## INTERACTIVE 3D
