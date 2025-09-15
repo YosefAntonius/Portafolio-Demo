@@ -11,10 +11,8 @@
 # BLOCKCHAIN
 
 ## NFT Animal Robots
-### Concepto
-PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/view?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 ### Demo
-1000 NFT COLLECTION:  https://testnets.opensea.io/collection/animals-robots
+1000 NFT COLLECTION:  https://testnets.opensea.io/collection/animals-robots (DOWN)
 
 ### Used
 - Testnet Mumbai on Polygon.
@@ -23,12 +21,16 @@ PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/5F9zONqf1HS4zRyGqVwAbg/vi
 - Photoshop and Illustrator for editing and creating all possible combinations of backgrounds and animals, and image processing.
 - Art obtained from Freepik.
 
+## Social Blocks - NFT as a utility
+<img width="1207" height="675" alt="image" src="https://github.com/user-attachments/assets/9c803a12-785d-44a4-ba17-aa6380456cd1" />
+### Concept
+PRESENTATION: https://www.canva.com/design/DAFN0fudwOk/UiUbOQPOHPMUv6Xm4KVfvg/edit?utm_content=DAFN0fudwOk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ## Crypto Stake Battles - Seasson 0.1: Crypto Papayas
 
 
 ### Concept
-PRESENTATION: https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+PRESENTATION: [https://www.canva.com/design/DAFTKRVioWU/i7OYugIb2QvWryQFASBOQg/view?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFTKRVioWU/i9RsNYaMgKoCNd0y6pCRoQ/edit?utm_content=DAFTKRVioWU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 ### Demo
 PROJECT REPOSITORY: [https://github.com/YosefAntonius/LMaquina-cryptopapayas](https://github.com/YosefAntonius/LMaquina-cryptopapayas)
 
